@@ -5,7 +5,7 @@
 
 # Variables
 JENKINS_HOME="/var/lib/jenkins"
-S3_BUCKET="simplilearn-course1-project1"
+S3_BUCKET="simplilearn-course2-project1"
 TIMESTAMP=$(date +%F_%H-%M-%S)
 BACKUP_FILE="/tmp/jenkins_backup_$TIMESTAMP.tar.gz"
 
